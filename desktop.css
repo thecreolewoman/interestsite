@@ -1,0 +1,83 @@
+body{ 
+	background:white;
+ }
+#wrap {background: purple; 
+	 width: 1024px;
+	 margin: 0 auto;
+	 border: solid 1px black;
+	 color: white;
+		}
+
+p{
+	padding-left: 20px;
+}
+
+h1{
+	padding-left: 15px;
+}
+
+nav {
+	background:purple;
+	float: left;
+	width: 100%;
+}
+
+nav ul{
+	margin: 0px;
+	padding: 0px;
+	list-style: none;
+	float: left;
+	width: 100%;
+	border: solid 0px red;
+
+}
+
+nav ul li{
+	color: white;
+	text-align: center;
+	width: 25%;
+	float: left;
+	padding-top: 25px;
+	padding-bottom: 25px;
+	border: solid 0px red;
+}
+
+nav ul li:hover{
+	background: white;
+	color: black;
+}
+#banner {background-image: url(http://www.floralvirtuoso.com/wp-content/uploads/2014/01/bigstock-Bright-flowers-background-53945725.jpg);
+	background-repeat: no-repeat;
+	height: 250px;
+	clear: both;
+
+}
+
+.column {background: #FF0080;
+         color: white;
+         float: left;
+         width: 50%;
+         min-height: 60vh;
+
+         
+}
+
+.column2{
+	background: #4A7023;
+	color: white;
+	float: left;
+	width: 50%
+	min-height: 60vh;
+}
+
+img {
+	width: 400px;
+	height: 350px;
+}
+
+footer {
+	clear: both;
+	text-align: center;
+	font-size: 12pt;
+	font-weight: bold;
+}

@@ -1,0 +1,20 @@
+body{
+	background: white;
+}
+#wrap{
+	background: purple;
+	width: 480px;
+	margin: 0 auto;
+	color: white;
+}
+
+nav{
+	background: purple;
+	width: 100%
+}
+
+nav ul li:hover{
+	background: white;
+	color: black;
+
+}
